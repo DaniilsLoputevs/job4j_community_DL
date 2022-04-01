@@ -7,7 +7,7 @@
 * [Советы](советы.md)
 *
   <details>
-  <summary>Книги(ссылки на: Читать/Скачать)</summary>
+  <summary>Книги(ссылки на: Читать/Скачать) (Coming soon - maybe ;) )</summary>
   
   - [Demo inner link](Demo inner link)
   </details>
